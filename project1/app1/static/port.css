@@ -1,0 +1,24 @@
+ul{
+	margin:0;
+        text-align:right;
+	padding:10px;
+}
+li{
+        padding-bottom: -50px;
+        display: inline;
+}
+.cen{
+border-radius:200px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+button{
+align:bottom;
+}
+a{
+text-align:bottom;
+}
+.a{
+        background-color:teal;
+}
